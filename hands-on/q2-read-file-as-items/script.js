@@ -35,6 +35,6 @@ document.querySelector("#btnLoad").addEventListener('click', async function(){
           return liElement;
       })
       for(let e of elements) {
-          fruitList.append(liElement);
+          fruitList.append(e);
       }
 })
