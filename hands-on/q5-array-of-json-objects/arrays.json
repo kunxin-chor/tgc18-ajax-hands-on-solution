@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "product": "ABC Beer",
+        "cost": 2.50
+    },
+    {
+        "id": 2,
+        "product": "Coke Lite",
+        "cost": 1.50
+    }
+]
